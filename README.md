@@ -24,4 +24,6 @@ This node provides early warnings to protect networks and equipment.
 - Sent notification for water damage
 
 ## Running the demo
-Download the code from ... and flash it to the stm32nucleo using mbed IDE. To get the project working correctly wire 
+Download the code from ... and flash it to the stm32nucleo using mbed IDE. To get the project working correctly wire all the components.
+The X-NUCLEO-IKS4A1 expansion board must be connected to the STM32 Nucleo.
+
